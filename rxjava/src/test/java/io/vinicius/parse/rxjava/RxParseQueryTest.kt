@@ -11,7 +11,7 @@ import io.reactivex.rxjava3.core.Completable
 import io.reactivex.rxjava3.core.Maybe
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.observers.TestObserver
-import io.vinicius.parse.common.ext.toDate
+import io.vinicius.parse.common.ktx.toDate
 import io.vinicius.parse.common.model.Show
 import org.junit.Before
 import org.junit.FixMethodOrder

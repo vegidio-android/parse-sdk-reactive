@@ -1,4 +1,4 @@
-package io.vinicius.parse.common.ext
+package io.vinicius.parse.common.ktx
 
 import java.time.LocalDate
 import java.time.ZoneId

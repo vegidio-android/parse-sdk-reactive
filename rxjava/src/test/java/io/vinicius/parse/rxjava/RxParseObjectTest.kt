@@ -6,7 +6,7 @@ import androidx.test.core.app.ApplicationProvider
 import com.parse.Parse
 import com.parse.ParseObject
 import io.reactivex.rxjava3.observers.TestObserver
-import io.vinicius.parse.common.ext.toDate
+import io.vinicius.parse.common.ktx.toDate
 import io.vinicius.parse.common.model.Show
 import org.junit.Before
 import org.junit.FixMethodOrder

@@ -7,7 +7,7 @@ import com.parse.Parse
 import com.parse.ParseObject
 import com.parse.ParseQuery
 import com.parse.ktx.whereContains
-import io.vinicius.parse.common.ext.toDate
+import io.vinicius.parse.common.ktx.toDate
 import io.vinicius.parse.common.model.Show
 import kotlinx.coroutines.async
 import kotlinx.coroutines.test.runBlockingTest

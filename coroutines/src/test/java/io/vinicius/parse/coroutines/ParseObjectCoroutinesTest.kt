@@ -5,7 +5,7 @@ import android.os.Build
 import androidx.test.core.app.ApplicationProvider
 import com.parse.Parse
 import com.parse.ParseObject
-import io.vinicius.parse.common.ext.toDate
+import io.vinicius.parse.common.ktx.toDate
 import io.vinicius.parse.common.model.Show
 import kotlinx.coroutines.test.runBlockingTest
 import org.junit.Assert
