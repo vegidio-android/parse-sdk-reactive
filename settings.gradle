@@ -1,4 +1,4 @@
-rootProject.name='android-parsesdk-reactive'
+rootProject.name='Parse-SDK Reactive'
 include ':common'
-include ':rxjava'
 include ':coroutines'
+include ':rxjava'
